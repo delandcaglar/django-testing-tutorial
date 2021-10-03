@@ -1,6 +1,6 @@
 from django.test import SimpleTestCase
 from django.urls import reverse, resolve
-from budget.views import project_list, project_detail, ProjectCreateView
+from budgetproject.budget.views import project_list, project_detail, ProjectCreateView
 
 
 class TestUrls(SimpleTestCase):

@@ -1,0 +1,6 @@
+pytest
+coverage>4
+PyYAML
+watchgod
+python-socketio<5,>=4
+aiohttp
